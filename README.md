@@ -13,7 +13,7 @@ Software developer with a knack for hardware innovation. I build, fix, and impro
 ## 🏆 Cool Projects
 
 - Flew a 500-drone light show, Gaining CAA-approved pilot status
-- Built fulfillment system on the fly processing 5,000+ Christmas tree orders
+- Built fulfillment system on the fly processing 5,000+ christmas tree orders
 - Design & print 3D solutions for real-world problems
 - Create off-grid power systems for vans and remote living
 
