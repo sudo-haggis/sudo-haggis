@@ -26,4 +26,4 @@ Software developer with a knack for hardware innovation. I build, fix, and impro
 
 ## 🔗 Links
 
-[Printables](https://linkto.yourprintables.account) | [Email](mailto:github.crewman660@passfwd.com)
+[GIST](https://gist.github.com/sudo-haggis) | [Printables](https://linkto.yourprintables.account) | [Email](mailto:github.crewman660@passfwd.com)
