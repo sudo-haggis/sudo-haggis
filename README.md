@@ -2,7 +2,7 @@
 
 > "If it ain't broken... maybe we can make it better, If it's broken I can probably fix it."
 
-Software developer with a knack for hardware innovation. I build, fix, and improve things across the digital and physical realms. Enthusiastically pushing towards backend development, Checkout my [![Boot.dev](https://img.shields.io/badge/Boot.dev-0A0A23?style=for-the-badge)](https://boot.dev/u/sudo-haggis)
+Software developer with a knack for hardware innovation. I build, fix, and improve things across the digital and physical realms. Recent experiances include flying large swarms of drones, constructing off grid power systems and running the largest outdoor cinema in europe. Currently im enthusiastically pushing towards backend development, Checkout my [![Boot.dev](https://img.shields.io/badge/Boot.dev-0A0A23?style=for-the-badge)](https://boot.dev/u/sudo-haggis) while also looking at a linux based sys admin role. 
 
 ## 🔧 Tech Stack
 
