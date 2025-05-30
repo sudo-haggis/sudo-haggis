@@ -2,7 +2,9 @@
 
 > "If it ain't broken... maybe we can make it better, If it's broken I can probably fix it."
 
-Software developer with a knack for hardware innovation. I build, fix, and improve things across the digital and physical realms. Recent experiances include flying large swarms of drones, constructing off grid power systems and running the largest outdoor cinema in europe. Currently I am enthusiastically pushing towards a backend development role, Checkout my [![Boot.dev](https://img.shields.io/badge/Boot.dev-0A0A23?style=for-the-badge)](https://boot.dev/u/sudo-haggis) while also looking at a linux based sys admin role. 
+Software developer with a knack for hardware innovation. I build, fix, and improve things across the digital and physical realms. Recent experiances include flying large swarms of drones, constructing off grid power systems and running the largest outdoor cinema in europe. Currently I am enthusiastically pushing towards a backend development role, while alsoo looking at a linux based system admin role. 
+
+## [![Boot.dev](https://img.shields.io/badge/Boot.dev-0A0A23?style=for-the-badge)](https://boot.dev/u/sudo-haggis)
 
 ## 🏆 Cool Projects
 
@@ -21,62 +23,60 @@ Software developer with a knack for hardware innovation. I build, fix, and impro
 ## 🏴‍☠️ Tech Stack
 
 <div align="center">
-<b>Languages:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="go logo" />
-<img width="12" />
+<b>Frontend:</b> &nbsp;&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="32" alt="svelte logo" />
 </div>
 <br/>
 
 <div align="center">
-<b>Frameworks & Libraries:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="32" alt="svelte logo" />
+<b>Backend:</b> &nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="go logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="32" alt="wordpress logo" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/nodered/8F0000" height="32" alt="node-red logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="arduino logo" />
+<img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" height="32" alt="phpmyadmin logo" />
 </div>
 <br/>
 
 <div align="center">
-<b>Databases & Cloud:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo" />
+<b>Cloud & APIs:</b> &nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="google cloud logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/google/4285F4" height="32" alt="google apps script logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="32" alt="google sheets logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="google cloud logo" />
+<img src="https://cdn.simpleicons.org/json/000000" height="32" alt="json logo" />
 </div>
 <br/>
 
 <div align="center">
-<b>DevOps & Tools:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo" />
-<img width="12" />
+<b>Dev Tooling:</b> &nbsp;&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="32" alt="github actions logo" />
-</div>
-<br/>
-
-<div align="center">
-<b>Workflow:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="32" alt="neovim logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="32" alt="vim logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="lua logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/tmux/1BB91F" height="32" alt="tmux logo" />
 <img width="12" />
@@ -85,6 +85,15 @@ Software developer with a knack for hardware innovation. I build, fix, and impro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="32" alt="ubuntu logo" />
 </div>
 <br/>
+
+<div align="center">
+<b>Hardware & Embedded:</b> &nbsp;&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="arduino logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/nodered/8F0000" height="32" alt="node-red logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/victronenergy/0089B6" height="32" alt="victron energy logo" />
+</div>
 
 ## 🔗 Links
 
