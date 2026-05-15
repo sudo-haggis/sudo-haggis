@@ -1,100 +1,119 @@
 # Hello! I'm Davey 👋
 
-> "If it ain't broken... maybe we can make it better, If it's broken I can probably fix it."
+> "If it ain't broken... maybe we can make it better. If it's broken, I can probably fix it."
 
-Software developer with a knack for hardware innovation. I build, fix, and improve things across the digital and physical realms. Recent experiances include flying large swarms of drones, constructing off grid power systems and running the largest outdoor cinema in europe. Currently I am enthusiastically pushing towards a backend development role, while alsoo looking at a linux based system admin role. 
+Computer Science graduate and infrastructure engineer with a decade of experience across networking, embedded hardware, and systems integration — from circuit to cloud. I've built and maintained live off-grid infrastructure, engineered networking systems for CAA-regulated drone swarm operations, and written the software to tie it all together.
 
-## [![Boot.dev](https://img.shields.io/badge/Boot.dev-0A0A23?style=for-the-badge)](https://boot.dev/u/sudo-haggis)
+Currently studying for my **Cisco CCNA**, formalising knowledge I already apply in practice. I'm undertaking the [NetworkChuck Premium Summer of CCNA](https://academy.networkchuck.com/course/premium-summer-of-ccna) — a structured, intensive programme with a clear pathway to certification.
+
+Alongside that, I'm enthusiastic about AI-assisted development — Claude and agentic workflows are a genuine part of how I work now, not a curiosity. I've started working directly through the [Anthropic course catalogue](https://www.anthropic.com/learn) to stay current, completing Claude Code in Action and Intro to Agent Skills, with more in progress.
+
+I regularly take courses on Boot.dev alongside everything else — less focused on the backend route these days, more on developing tools and skills for a professional workflow. CI/CD, Docker, DSA, Linux, and Memory Management in C are among the 11 completed so far. [Check my profile.](https://boot.dev/u/sudo-haggis)
+
+## [![Boot.dev](https://img.shields.io/badge/Boot.dev-0A0A23?style=for-the-badge)](https://boot.dev/u/sudo-haggis) &nbsp; [![Anthropic](https://img.shields.io/badge/Anthropic_AI_Courses-191919?style=for-the-badge)](https://www.anthropic.com)
+
+---
 
 ## 🏆 Cool Projects
 
-- Flew a 500-drone light show, Gaining CAA-approved pilot status
-- Built fulfillment system on the fly processing 5,000+ christmas tree orders
-- Design & print 3D solutions for real-world problems
-- Create off-grid power systems for vans and remote living
+- Engineered 4G/RF/fibre network infrastructure for the UK's first CAA-approved 500-drone light show
+- Designed and maintain live off-grid power and network systems across multiple remote sites
+- Built a fulfilment system on the fly processing 5,000+ orders at >95% success rate
+- Design & print 3D solutions for real-world infrastructure problems
+
+---
 
 ## 🌱 Current Focus
 
-- Backend Development (Python, Go, Docker, CI/CD, BASH... )
-- Using GIT everywhere and anywhere all the time.
-- VIM motions, Why did I not do this years ago?
-- Growing vegetables, Can I use a GIT workflow with tomatoes?
+- **Cisco CCNA** — routing, switching, network security, LAN/WAN
+- Linux systems administration and infrastructure tooling
+- Networking tools: Wireshark, nmap, Packet Tracer
+- Using Git everywhere, all the time, always
+- Vim motions — why did I not do this years ago?
+
+---
 
 ## 🏴‍☠️ Tech Stack
 
 <div align="center">
-<b>Frontend:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo" />
+<b>Networking & Infrastructure:</b> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="32" alt="wireshark" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo" />
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="32" alt="cisco" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="32" alt="svelte logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/mqtt/660066" height="32" alt="mqtt" />
 </div>
 <br/>
 
 <div align="center">
-<b>Backend:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo" />
+<b>Hardware & Embedded:</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="arduino" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="32" alt="raspberry pi" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="go logo" />
+<img src="https://cdn.simpleicons.org/nodered/8F0000" height="32" alt="node-red" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="32" alt="wordpress logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" height="32" alt="phpmyadmin logo" />
+<img src="https://cdn.simpleicons.org/victronenergy/0089B6" height="32" alt="victron energy" />
 </div>
 <br/>
 
 <div align="center">
-<b>Cloud & APIs:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="google cloud logo" />
+<b>Development:</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="32" alt="bash" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/google/4285F4" height="32" alt="google apps script logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" height="32" alt="google sheets logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/json/000000" height="32" alt="json logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="32" alt="wordpress" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" height="32" alt="phpmyadmin" />
 </div>
 <br/>
 
 <div align="center">
-<b>Dev Tooling:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
+<b>Tooling:</b> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo" />
+<img src="https://skillicons.dev/icons?i=github" height="32" alt="github" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="32" alt="github actions logo" />
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="32" alt="github actions" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="32" alt="vim" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="32" alt="vim logo" />
+<img src="https://cdn.simpleicons.org/tmux/1BB91F" height="32" alt="tmux" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="lua logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="32" alt="ubuntu" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/tmux/1BB91F" height="32" alt="tmux logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="google cloud" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo" />
+<img src="https://cdn.simpleicons.org/google/4285F4" height="32" alt="google apps script" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="32" alt="ubuntu logo" />
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" height="32" alt="google sheets" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/json/000000" height="32" alt="json" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="32" alt="lua" />
 </div>
-<br/>
 
-<div align="center">
-<b>Hardware & Embedded:</b> &nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="arduino logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/nodered/8F0000" height="32" alt="node-red logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/victronenergy/0089B6" height="32" alt="victron energy logo" />
-</div>
+---
 
 ## 🔗 Links
 
-[GIST](https://gist.github.com/sudo-haggis) | [Printables](https://linkto.yourprintables.account) | [Email](mailto:github.crewman660@passfwd.com)
+[Boot.dev Profile](https://boot.dev/u/sudo-haggis) | [GIST](https://gist.github.com/sudo-haggis) | [Email](mailto:github.crewman660@passfwd.com)
